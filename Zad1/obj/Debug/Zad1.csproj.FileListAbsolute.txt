@@ -1,0 +1,4 @@
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zad1\bin\Debug\Zad1.dll
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zad1\bin\Debug\Zad1.pdb
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zad1\obj\Debug\Zad1.dll
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zad1\obj\Debug\Zad1.pdb

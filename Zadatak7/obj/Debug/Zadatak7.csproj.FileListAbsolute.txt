@@ -3,3 +3,4 @@ C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zadatak7\bin\Debu
 C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zadatak7\bin\Debug\Zadatak7.pdb
 C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zadatak7\obj\Debug\Zadatak7.exe
 C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zadatak7\obj\Debug\Zadatak7.pdb
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zadatak7\obj\Debug\Zadatak7.csprojResolveAssemblyReference.cache

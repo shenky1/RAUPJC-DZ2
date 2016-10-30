@@ -1,0 +1,8 @@
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zad1Tests\bin\Debug\Zad1Tests.dll
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zad1Tests\bin\Debug\Zad1Tests.pdb
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zad1Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zad1Tests\bin\Debug\Zad1.dll
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zad1Tests\bin\Debug\Zad1.pdb
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zad1Tests\obj\Debug\Zad1Tests.csprojResolveAssemblyReference.cache
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zad1Tests\obj\Debug\Zad1Tests.dll
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zad1Tests\obj\Debug\Zad1Tests.pdb
