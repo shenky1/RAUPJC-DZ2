@@ -1,0 +1,4 @@
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
