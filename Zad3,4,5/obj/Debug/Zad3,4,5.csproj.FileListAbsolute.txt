@@ -1,0 +1,7 @@
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\Zad3,4,5\bin\Debug\Zad3,4,5.exe.config
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\Zad3,4,5\obj\Debug\Zad3,4,5.csprojResolveAssemblyReference.cache
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\Zad3,4,5\bin\Debug\Zad3,4,5.exe
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\Zad3,4,5\bin\Debug\Zad3,4,5.pdb
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\Zad3,4,5\obj\Debug\Zad3,4,5.exe
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\Zad3,4,5\obj\Debug\Zad3,4,5.pdb
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\Zad3,4,5\bin\Debug\Zad3_4_5.exe.config
