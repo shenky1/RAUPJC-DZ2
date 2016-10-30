@@ -1,0 +1,5 @@
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zadatak7\bin\Debug\Zadatak7.exe.config
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zadatak7\bin\Debug\Zadatak7.exe
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zadatak7\bin\Debug\Zadatak7.pdb
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zadatak7\obj\Debug\Zadatak7.exe
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-2\RAUPJC-Homework-2\Zadatak7\obj\Debug\Zadatak7.pdb
